@@ -1,0 +1,33 @@
+body, html {
+	height: 100%;
+}
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    color: #323637;
+    margin: 0;
+    padding: 0;
+}
+.form-control, .form-control:focus {
+    box-shadow: none;
+    border-color: #ced4da;
+}
+
+
+
+/* Sign Up Section */
+
+.signup-section h2 {
+    color: #10111D;
+}
+.signup-section button {
+    background-color: #506DF5;
+    padding: 13px 0;
+    font-size: 14px;
+}
+.signup-section input.form-control {
+    font-size: 14px;
+    padding: 24px;
+}
+
+
